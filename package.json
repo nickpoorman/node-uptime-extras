@@ -1,0 +1,27 @@
+{
+  "name": "node-uptime-extras",
+  "description": "extra uptime functions",
+  "url": "",
+  "author": "Nick Poorman <mail@nickpoorman.com>",
+  "contributors": [{
+    "name": "Nick Poorman",
+    "email": "mail@nickpoorman.com",
+    "url": "http://nickpoorman.com/"
+  }],
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "should": "~3.1.2"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nickpoorman/node-uptime-extras.git"
+  }
+}
