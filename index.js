@@ -9,10 +9,10 @@ function UptimeExtras(opts) {
 
   if (!opts.date || !opts.uptime) {
     this.uptime = os.uptime();
-    this._upDate = toSeconds(Date.now()) - this._uptime;
+    this._upDate = toSeconds(Date.now()) - this.uptime;
   } else {
     this.uptime = opts.uptime;
-    this._upDate = toSeconds(opts.date) - this._uptime;
+    this._upDate = toSeconds(opts.date) - this.uptime;
   }
 
   this.upDate = new Date(toMilliseconds(this._upDate));
