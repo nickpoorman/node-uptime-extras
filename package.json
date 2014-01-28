@@ -3,12 +3,14 @@
   "description": "extra uptime functions",
   "url": "",
   "author": "Nick Poorman <mail@nickpoorman.com>",
-  "contributors": [{
-    "name": "Nick Poorman",
-    "email": "mail@nickpoorman.com",
-    "url": "http://nickpoorman.com/"
-  }],
-  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Nick Poorman",
+      "email": "mail@nickpoorman.com",
+      "url": "http://nickpoorman.com/"
+    }
+  ],
+  "version": "0.1.1",
   "dependencies": {},
   "devDependencies": {
     "mocha": "~1.17.1",
