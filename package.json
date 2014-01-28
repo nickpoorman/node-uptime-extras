@@ -8,7 +8,7 @@
     "email": "mail@nickpoorman.com",
     "url": "http://nickpoorman.com/"
   }],
-  "version": "0.0.1",
+  "version": "0.1.0",
   "dependencies": {},
   "devDependencies": {
     "mocha": "~1.17.1",
@@ -18,7 +18,7 @@
     "test": "mocha test/*.js"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": ">= 0.10.x"
   },
   "repository": {
     "type": "git",
