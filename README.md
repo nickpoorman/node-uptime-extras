@@ -1,4 +1,4 @@
-# node-uptime-extras
+# uptime-extras
 
 [![build status](https://secure.travis-ci.org/nickpoorman/node-uptime-extras.png)](https://travis-ci.org/nickpoorman/node-uptime-extras)
 
